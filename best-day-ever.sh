@@ -1,11 +1,14 @@
 #!/bin/bash
 
-echo "Good Morning Ali"
+
+name="Giso"
+
+echo "Good Morning $name!!"
 
 sleep 1
 
-echo "you're looking good today Ali"
+echo "you're looking good today $name!!"
 
 sleep 1
 
-echo "You have the best beard I've ever seen Ali"
+echo "You have the best hair I've ever seen $name!!"
